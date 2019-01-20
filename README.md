@@ -6,6 +6,8 @@ Von der Seite des Hersteller braucht man zusätzlich das Programm (pgdt_service_
 
 Dann ist mann in der Lage alle Parameter anzupassen.
 
+Mehr Screenshots im WIKI
+
 Hier ein Screenshot:
 ![Screen1](http://khb.bplaced.net/Screens-Dateien/image001.png)
 
